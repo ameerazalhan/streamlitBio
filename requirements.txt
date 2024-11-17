@@ -1,5 +1,5 @@
-import pandas
-import networkx
-import streamlit
-import matplotlib.pyplot
-import requests
+pandas
+networkx
+streamlit
+matplotlib.pyplot
+requests
